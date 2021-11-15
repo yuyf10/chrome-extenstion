@@ -1,0 +1,17 @@
+{
+
+    "manifest_version": 2,
+    "name": "Test",
+    "version": "1.0",
+  
+    "description": "Customize my chrome",
+  
+    "icons": {
+      "48": "icons/YY-48x48.png"
+    },
+	"chrome_url_overrides": {
+		"newtab": "google.html"
+	}
+  
+  }
+  
